@@ -1,0 +1,6 @@
+{
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar",
+        "BookBotParser/pdfbox-app-3.0.0.jar"
+    ]
+}
