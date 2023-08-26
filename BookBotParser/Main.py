@@ -15,4 +15,24 @@ def testVectorize():
     for sentence in sentences:
         print(sentence.__str__() + "\n")
 
+def testFindAnswers():
+    #To-do Write test
+    pass
+
+def testAiResponse():
+    #To-do Write test
+    pass
+
+def testBookStorageIn():
+    #To-do Write test
+    pass
+
+def testBookStorageOut():
+    #To-do Write test
+    pass
+
+def testmain():
+    #To-do Write test
+    pass
+
 testVectorize()
