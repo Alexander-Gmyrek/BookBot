@@ -12,3 +12,6 @@ class Sentence:
     
     def __str__(self):  
         return self.sentence + " " + str(self.location) + " " + str(self.vector)
+    
+    def getString(self):
+        return self.sentence
